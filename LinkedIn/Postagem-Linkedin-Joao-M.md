@@ -7,9 +7,7 @@ Neste projeto, trabalhamos com uma stack moderna de desenvolvimento Frontend:
 • JavaScript
 • HTML5
 • CSS3
-• Vite
-• Tailwind CSS
-• Git e GitHub
+• Github
 
 O foco não foi apenas construir telas, mas criar uma experiência que facilitasse a jornada do paciente dentro da plataforma.
 
